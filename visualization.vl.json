@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Tourist arrivals by country of residence, 2019",
+  "title": "Mauritius: Tourist arrivals by country of residence, 2019",
   "width": "container",
   "height": 500,
   "data": {
